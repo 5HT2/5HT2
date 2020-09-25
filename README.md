@@ -5,10 +5,10 @@
 You're free to hire me, I'm available nearly whenever, just contact me! I prefer to work remotely, but if you're in ON. Canada just hit me up and we can work something out!
 
 ### 📫 You can contact me at
-- `living#0076` (<9h)
-- `sokolov.dominika@gmail.com` (<24h)
-- `keybase.io/l1ving` (<24h)
-- `@dominikaaaa:matrix@org` (<336h)
+  - `living#0076` (<9h)
+  - `sokolov.dominika@gmail.com` (<24h)
+  - `keybase.io/l1ving` (<24h)
+  - `@dominikaaaa:matrix@org` (<336h)
 
 ### ⚙️ I have experience using
   - Linux
@@ -17,19 +17,20 @@ You're free to hire me, I'm available nearly whenever, just contact me! I prefer
 <details>
   <summary><b>View More</b></summary>
 
-  - Shell
-  - SSH
-  - Brigadier
-  - Kordis
-  - Coroutines
-  - OkHttp
-  - Mixin
-  - ASM
-  - Jitpack
-  - Baritone
-  - JavaScript
-  - CSS
-  - HTML
+<li>Shell</li>
+<li>SSH</li>
+<li>Brigadier</li>
+<li>Kordis</li>
+<li>Coroutines</li>
+<li>OkHttp</li>
+<li>Mixin</li>
+<li>ASM</li>
+<li>Jitpack</li>
+<li>Baritone</li>
+<li>JavaScript</li>
+<li>CSS</li>
+<li>HTML</li>
+
 </details>
 
 ### 🚀 I have experience doing 
