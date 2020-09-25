@@ -5,15 +5,10 @@
 You're free to hire me, I'm available nearly whenever, just contact me! I prefer to work remotely, but if you're in ON. Canada just hit me up and we can work something out!
 
 ### 📫 You can contact me at
-<details>
-  <summary><b>Expand</b></summary>
-
-- `living` [hash sign] `0076` (<9h) (formerly dominika instead of living)
-- `sokolov` [dot] `dominika` [at] `gmail` [dot] `com` (<24h)
-- `keybase` [dot] `io` [slash] `l1ving` (<24h)
-- [at] `dominikaaaa` [colon sign] `matrix` [dot] `org` (<336h)
-
-</details>
+- `living#0076` (<9h)
+- `sokolov.dominika@gmail.com` (<24h)
+- `keybase.io/l1ving` (<24h)
+- `@dominikaaaa:matrix@org` (<336h)
 
 ### ⚙️ I have experience using
   - Linux
