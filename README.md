@@ -8,10 +8,11 @@ You're free to hire me, I'm available nearly whenever, just contact me! I prefer
 <details>
   <summary><b>Expand</b></summary>
 
-  - `living` [hash sign] `0076` (<9h) (formerly dominika instead of living)
-  - `sokolov` [dot] `dominika` [at] `gmail` [dot] `com` (<24h)
-  - `keybase` [dot] `io` [slash] `l1ving` (<24h)
-  - [at] `dominikaaaa` [colon sign] `matrix` [dot] `org` (<336h)
+- `living` [hash sign] `0076` (<9h) (formerly dominika instead of living)
+- `sokolov` [dot] `dominika` [at] `gmail` [dot] `com` (<24h)
+- `keybase` [dot] `io` [slash] `l1ving` (<24h)
+- [at] `dominikaaaa` [colon sign] `matrix` [dot] `org` (<336h)
+
 </details>
 
 ### ⚙️ I have experience using
