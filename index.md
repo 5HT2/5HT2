@@ -56,8 +56,12 @@ uwu
 
 ### 🔑 PGP
 
+Each of these is identical. 
+
 ```
 curl https://kamiblue.org/gpg.asc | gpg --import
+curl https://l1ving.org/gpg.asc | gpg --import
+curl https://keybase.io/l1ving/pgp_keys.asc | gpg --import
 ```
 or
 ```
