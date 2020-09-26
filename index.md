@@ -63,8 +63,8 @@ You're free to hire me, I'm available nearly whenever, just contact me! I prefer
     <p>Each of these is identical.</p>
     <div class="language-plaintext highlighter-rouge">
         <div class="highlight">
-            <pre class="highlight"><code>curl https://kamiblue.org/pgp.asc | gpg --import
-curl https://l1ving.org/pgp.asc | gpg --import
+            <pre class="highlight"><code>curl https://l1ving.org/pgp.asc | gpg --import
+curl https://kamiblue.org/pgp.asc | gpg --import
 curl https://keybase.io/l1ving/pgp_keys.asc | gpg --import
 </code></pre>
         </div>
