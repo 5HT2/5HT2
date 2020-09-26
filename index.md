@@ -130,6 +130,7 @@ wWWBTLX9TmY8XX0xDVQm5B1tIWk1
 </details>
 <details>
     <summary>Fingerprint</summary>
+    <br>
     <p>Name: <code class="language-plaintext highlighter-rouge">Dominika Sokolov</code></p>
     <p>Fingerprint: <code class="language-plaintext highlighter-rouge">F0BC 7BF4 40E3 0845 DFCC  4BC5 B4A5 A6DC A70F 861F</code></p>
 </details>
