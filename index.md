@@ -17,10 +17,7 @@ You're free to hire me, I'm available nearly whenever, just contact me! I prefer
 <details>
   <summary><b>View More</b></summary>
 
-uwu
-
-</details>
-
+<ul>
 <li>Shell</li>
 <li>SSH</li>
 <li>Brigadier</li>
@@ -34,7 +31,9 @@ uwu
 <li>JavaScript</li>
 <li>CSS</li>
 <li>HTML</li>
+</ul>
 
+</details>
 
 ### 🚀 I have experience doing 
   - Project management of ~20 people
