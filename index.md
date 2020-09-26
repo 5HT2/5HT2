@@ -17,6 +17,10 @@ You're free to hire me, I'm available nearly whenever, just contact me! I prefer
 <details>
   <summary><b>View More</b></summary>
 
+uwu
+
+</details>
+
 <li>Shell</li>
 <li>SSH</li>
 <li>Brigadier</li>
@@ -31,7 +35,6 @@ You're free to hire me, I'm available nearly whenever, just contact me! I prefer
 <li>CSS</li>
 <li>HTML</li>
 
-</details>
 
 ### 🚀 I have experience doing 
   - Project management of ~20 people
@@ -52,9 +55,6 @@ You're free to hire me, I'm available nearly whenever, just contact me! I prefer
     - Recreated CSS with extreme accuracy, without reference code
 
 ### 🔑 PGP
-
-<details>
-  <summary>Public Key Block</summary>
 
 ```
 curl https://kamiblue.org/gpg.asc | gpg --import
@@ -114,16 +114,12 @@ wWWBTLX9TmY8XX0xDVQm5B1tIWk1
 =c83R
 -----END PGP PUBLIC KEY BLOCK-----
 ```
-</details>
-
-<details>
-  <summary>Fingerprint Information</summary>
 
 
 Name: `Dominika Sokolov`
 
 Fingerprint: `F0BC 7BF4 40E3 0845 DFCC  4BC5 B4A5 A6DC A70F 861F`
 
-</details>
+
 
 ![dominikaaaa's github stats](https://github-readme-stats.vercel.app/api?username=l1ving&hide=stars)
