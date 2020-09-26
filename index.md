@@ -55,18 +55,24 @@ You're free to hire me, I'm available nearly whenever, just contact me! I prefer
 
 ### 🔑 PGP
 
+
+
 <details>
-  <summary>Key</summary>
-
-<br><p>Each of these is identical.</p>
-
-<div class="language-plaintext highlighter-rouge">
-	<div class="highlight"><pre class="highlight"><code>curl https://kamiblue.org/pgp.asc | gpg --import
+    <summary>Key</summary>
+    <br>
+    <p>Each of these is identical.</p>
+    <div class="language-plaintext highlighter-rouge">
+        <div class="highlight">
+            <pre class="highlight"><code>curl https://kamiblue.org/pgp.asc | gpg --import
 curl https://l1ving.org/pgp.asc | gpg --import
 curl https://keybase.io/l1ving/pgp_keys.asc | gpg --import
-</code></pre></div></div>
-<p>or</p>
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>-----BEGIN PGP PUBLIC KEY BLOCK-----
+</code></pre>
+        </div>
+    </div>
+    <p>or</p>
+    <div class="language-plaintext highlighter-rouge">
+        <div class="highlight">
+            <pre class="highlight"><code>-----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQINBF7BVysBEADjHlz2pZTEtCZ6VUYjd4XdhX3cADiYOJS5cjvUoigdXC5xAgE9
 fbsci2Jw4jGvT/0/Cy/J3k1kCjrFkCmDeZzj6DqCNp28NDmcqy8mxnoDCbSuyBY1
@@ -118,19 +124,15 @@ di1T9IwEiOfYuw38URKrrdTDLbWPEviMd5oqewIKB1HLG4ZI5JGQ4rdEuwoJewuT
 wWWBTLX9TmY8XX0xDVQm5B1tIWk1
 =c83R
 -----END PGP PUBLIC KEY BLOCK-----
-</code></pre></div></div>
-
-  </details>
-
+</code></pre>
+        </div>
+    </div>
+</details>
 <details>
-  <summary>Fingerprint</summary>
-  
-<p>Name: <code class="language-plaintext highlighter-rouge">Dominika Sokolov</code></p>
-
-<p>Fingerprint: <code class="language-plaintext highlighter-rouge">F0BC 7BF4 40E3 0845 DFCC  4BC5 B4A5 A6DC A70F 861F</code></p>
-
-  </details>
-  
+    <summary>Fingerprint</summary>
+    <p>Name: <code class="language-plaintext highlighter-rouge">Dominika Sokolov</code></p>
+    <p>Fingerprint: <code class="language-plaintext highlighter-rouge">F0BC 7BF4 40E3 0845 DFCC  4BC5 B4A5 A6DC A70F 861F</code></p>
+</details>
 <br>
 
 
