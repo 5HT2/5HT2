@@ -7,7 +7,7 @@ You're free to hire me, I'm available nearly whenever, just contact me! I prefer
   - `living#0076` (<9h)
   - `sokolov.dominika@gmail.com` (<24h)
   - `keybase.io/l1ving` (<24h)
-  - `@l1ving:matrix@org` (<24h)
+  - `@l1ving:matrix.org` (<24h)
 
 ### ⚙️ I have experience using
   - Linux
