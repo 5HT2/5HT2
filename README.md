@@ -1,4 +1,4 @@
-<h3 align="left">hey, i'm liv!, just some kotlin / java dev looking for work</h3>
+<h3 align="left">hey, i'm liv! i'm just some kotlin / java dev looking for work</h3>
 <h3 align="left">🌐 https://l1ving.org</h3>
 
 You're free to hire me, I'm available nearly whenever, just contact me! I prefer to work remotely, but if you're in Ontario, Canada just hit me up and we can work something out!
